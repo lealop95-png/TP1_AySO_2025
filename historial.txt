@@ -1,0 +1,243 @@
+    1  https://github.com/upszot/UTN-FRA_SO_Vagrant
+    2  m
+    3  dir
+    4  git clone https://github.com/upszot/UTN-FRA_SO_Vagrant.git
+    5  cd UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo
+    6  ls
+    7  vagrant up
+    8  dir
+    9  https://github.com/upszot/UTN-FRA_SO_Vagrant.git
+   10  y
+   11  git init
+   12  cd
+   13  git clone https://github.com/upszot/UTN-FRA_SO_Vagrant.git
+   14  cd 
+   15  cd 
+   16  cd Vagrant
+   17  ls -l
+   18  git clone https://github.com/upszot/UTN-FRA_SO_Vagrant.git
+   19  cd UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo
+   20  cd -
+   21  d -
+   22  cd -
+   23  pwd
+   24  ls -la
+   25  ls -l .
+   26  ls -l ..
+   27  ls -l ../..
+   28  ls -l ../../extras/
+   29  ls -la
+   30  vagrant ssh
+   31  vagrant up
+   32  vagrant ssh
+   33  vagrant ssh
+   34  ssh-keygen -t ed25519
+   35  cd 
+   36  ls -la
+   37  cd ./
+   38  cd
+   39  cd UTN-FRA_SO_Vagrant/
+   40  ssh-keygen -t ed25519
+   41  ssh-keygen -t ed25519
+   42  cd ext
+   43  exit
+   44  ssh-keygen -t ed25519
+   45  cd 
+   46  cd 
+   47  cd
+   48  mkdir repogit
+   49  cd repogit
+   50  git clone git@github.com:lealop95-png/TP1_AySO_2025.git
+   51  cat ~/ .ssh/id_ed25519.pub
+   52  cat ~/.ssh/id_rsa.pub
+   53  cd
+   54  cat ~/.ssh/id_ed25519.pub
+   55  cd repogit
+   56  git clone git@github.com:lealop95-png/TP1_AySO_2025.git
+   57  git clone git@github.com:lealop95-png/TP1_AySO_2025.git 
+   58  pwd
+   59  cd TP1_AySO_2025/
+   60  ls -l
+   61  cat /etc/os-release
+   62  cd
+   63  cd repogit/
+   64  cd TP1_AySO_2025/
+   65  cd VM/
+   66  ls -l
+   67  cd VMPruebas/
+   68  ls -l
+   69  cat /etc/os-realease
+   70  cd
+   71  cd d/so/
+   72  cd repobit/
+   73  cd repogit/
+   74  cd TP1_AySO_2025/
+   75  ls - l
+   76  ls -l
+   77  pwd
+   78  cat /etc/os-release
+   79  vagrant init
+   80  vagrant up
+   81  cat /etc/os-release
+   82  ls -l
+   83  cd Vagrantfile 
+   84  cat /etc/os-release
+   85  cat /etc/os-release
+   86  cat /etc/os-release 
+   87  cat /etc/ 
+   88  cat /etc/os 
+   89  cd /etc/
+   90  ls -l
+   91  mora
+   92  more
+   93  ls -l
+   94  cat /etc/os-release
+   95  cd
+   96  vagrant init
+   97  vagrant up
+   98  cd Vagrantfile 
+   99  cat Vagrantfile 
+  100  cd /d/so/Repogit/UTN-FRA_SO_Vagrant/
+  101  cd VagrantFiles/ 
+  102  cd 1_equipo
+  103  ls -l
+  104  ls -la
+  105  vagrant ssh
+  106  ls -l
+  107  cd Repogit/
+  108  ls -l
+  109  cd UTN-FRA_SO_Vagrant/
+  110  ls -l
+  111  cat /etc/os-realease
+  112  cat /etc/os-realease
+  113  ls /etc/*release
+  114  Vagrant up
+  115  vagrant init
+  116  cd
+  117  cd repogit
+  118  ls -la
+  119  cd TP1_AySO_2025/
+  120  vagrant init ubuntu/jammy64
+  121  ls -la
+  122  cat /etc/os-release
+  123  cat Vagrantfile 
+  124  rm Vagrantfile 
+  125  ls
+  126  vagrant init ubuntu/jammy64
+  127  head Vagrantfile 
+  128  head -20 Vagrantfile 
+  129  grep config.vm.box Vagrantfile 
+  130  vagrant ssh
+  131  vagrant up
+  132  cat /etc/os-release
+  133  vagrant ssh
+  134  cd
+  135  cd repogit/
+  136  cd
+  137  cd repogit/TP1_AySO_2025/Vagrantfile 
+  138  cd repogit/TP1_AySO_2025/Vagrantfile 
+  139  cd repogit/
+  140  cd TP1_AySO_2025/
+  141  cd Vagrantfile 
+  142  man grep
+  143  grep ~/repogit/TP1_AySO_2025 etc/os-release
+  144  vagrant up
+  145  pwd
+  146  vagrant init ubuntu/jammy64
+  147  vagrant up
+  148  vagrant up
+  149  grep Vagrantfile 
+  150  grep TP1_AySO_2025*
+  151  cd ls -la
+  152  ls -la
+  153  grep Vagrantfile /etc/os-release
+  154  grep /etc/os-release Vagrantfile 
+  155  whoami
+  156  echo "Usuario=$leand">datos_usuario.txt
+  157  git status
+  158  git add .
+  159  git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt
+  160  Author identity uknown
+  161  Run 
+  162  git config --global user.email "lealop95@gmail.com"
+  163  git config --global user.name "Leandro Lopez"
+  164  to set ypu account's default identity.
+  165  cd
+  166  cd repogit/TP1_AySO_2025/Vagrantfile 
+  167  cd repogit/TP1_AySO_2025
+  168  ls
+  169  git status
+  170  git config --global user.email "lealop95@gmail.com" ; git config --global user.name "Leandro Lopez"
+  171  git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+  172  git status
+  173  grep cpuinfo /proc/
+  174  grep cpuinfo /proc
+  175  grep /proc/ cpuinfo
+  176  grep "model name" /proc/cpuinfo 
+  177  grep "model name" /proc/cpuinfo | head -n1 >> ~/repogit/TP1_AySO_2025/datos_usuario.txt 
+  178  cat ~/repogit/TP1_AySO_2025/datos_usuario.txt 
+  179  git add datos_usuario.txt
+  180  git commit -m "feat: Añadiendo información de CPU"
+  181  cat datos_usuario.txt 
+  182  git config --global user.email "lealop95@gmail.com" ; git config --global user.name "Leandro Lopez"
+  183  git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+  184  git status
+  185  cat datos_usuario.txt 
+  186  man grep
+  187  man man
+  188  grep -v "nologin" /etc/passwd | head -n10
+  189  grep -v "nologin" /etc/passwd | head -n 10
+  190  grep -v "nologin" /etc/passwd 
+  191  grep -v "nologin" /etc/passwd | head -n 10 | sort -t ':' -k7 > lista_ordenada
+  192  history
+  193  ls
+  194  cat lista_ordenada 
+  195  vagrant init ubuntu/jammy64
+  196  vagrant up 
+  197  grep -v "nologin" /etc/passwd 
+  198  cat Vagrantfile 
+  199  ls -la
+  200  history
+  201  ls
+  202  ls -la
+  203  vagrant init ubuntu/jammy64
+  204  vagrant up 
+  205  man grep
+  206  grep --help
+  207  grep -v "nologin" /etc/passwd
+  208  cat lista_ordenada 
+  209  git status
+  210  ls -l /etc/passwd
+  211  cat > passwd.txt >> 'EOF'
+  212  cat > passwd.txt << 'EOF'
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+leandro:x:1000:1000:Leandro:/home/leandro:/bin/bash
+maria:x:1001:1001:Maria:/home/maria:/bin/zsh
+juan:x:1002:1002:Juan:/home/juan:/bin/bash
+pepe:x:1003:1003:Pepe:/home/pepe:/bin/sh
+ana:x:1004:1004:Ana:/home/ana:/bin/bash
+carlos:x:1005:1005:Carlos:/home/carlos:/bin/zsh
+userx:x:1006:1006:UserX:/home/userx:/usr/sbin/nologin
+EOF
+
+  213  cat -d':' -f1,7 passwd.txt
+  214  cut -d ':' -f1,7 passwd.txt
+  215  grep -v "nologin" passwd.txt | head -n 10 | sort -t ':' -k7 > lista_ordenada 
+  216  cat lista_ordenada 
+  217  echo "Comando sugerido: tcpdump -i any -c 100 -w captura.pcap
+Cómo buscarlo: man tcpdump  OR tcpdump --help  OR apropos dump" > comando_dump_net
+  218  git add comando_dump_net
+  219  git commit -m "ADD: Comando para Capturar y analizar trafico de red"
+  220  echo "Alumno: Leandro Lopez; Division 314; Turno: Noche" >> README.md
+  221  git add README.md
+  222  git commit -m "DOC: Datos identificatorios añadidos al README"
+  223  cat README.md 
+  224  l
+  225  ls
+  226  cat lista_ordenada 
+  227  cat comando_dump_net 
+  228  ls -la
+  229  cat datos_usuario.txt 
+  230  history > historial.txt 
