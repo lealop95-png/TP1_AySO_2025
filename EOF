@@ -1,0 +1,13 @@
+
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+leandro:x:1000:1000:Leandro:/home/leandro:/bin/bash
+maria:x:1001:1001:Maria:/home/maria:/bin/zsh
+juan:x:1002:1002:Juan:/home/juan:/bin/bash
+pepe:x:1003:1003:Pepe:/home/pepe:/bin/sh
+ana:x:1004:1004:Ana:/home/ana:/bin/bash
+carlos:x:1005:1005:Carlos:/home/carlos:/bin/zsh
+userx:x:1006:1006:UserX:/home/userx:/usr/sbin/nologin
+EOF
+

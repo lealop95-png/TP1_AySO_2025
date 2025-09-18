@@ -1,0 +1,7 @@
+ana:x:1004:1004:Ana:/home/ana:/bin/bash
+juan:x:1002:1002:Juan:/home/juan:/bin/bash
+leandro:x:1000:1000:Leandro:/home/leandro:/bin/bash
+root:x:0:0:root:/root:/bin/bash
+pepe:x:1003:1003:Pepe:/home/pepe:/bin/sh
+carlos:x:1005:1005:Carlos:/home/carlos:/bin/zsh
+maria:x:1001:1001:Maria:/home/maria:/bin/zsh
