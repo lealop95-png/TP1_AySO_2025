@@ -1,0 +1,2 @@
+Comando sugerido: tcpdump -i any -c 100 -w captura.pcap
+Cómo buscarlo: man tcpdump  OR tcpdump --help  OR apropos dump
